@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "http-server -o .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "http-server -o . --port 3000"
   },
   "repository": {
     "type": "git",
