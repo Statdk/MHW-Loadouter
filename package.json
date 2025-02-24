@@ -1,0 +1,25 @@
+{
+  "name": "mhw-loadouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -o .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Statdk/MHW-Loadouter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Statdk/MHW-Loadouter/issues"
+  },
+  "homepage": "https://github.com/Statdk/MHW-Loadouter#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
